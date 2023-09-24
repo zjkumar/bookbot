@@ -1,1 +1,1 @@
-BookBot is my first git project!
+BookBot is a project of boot.dev
